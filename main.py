@@ -2,7 +2,11 @@ from distutils.command.config import config
 from bs4 import BeautifulSoup
 import requests
 import random
-
+#новый функционал
+#Пошутить
+#Предложить рецепт
+#Записать в календарь
+#Учет расходов
 import telebot
 from telebot import types
 
