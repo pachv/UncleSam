@@ -29,7 +29,7 @@ receipts = [i.text for i in receipts]
 
 bot = telebot.TeleBot(API_K)
 
-
+fsfsf
 @bot.message_handler(commands=['start'])
 def start(message):
     markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
